@@ -7,7 +7,7 @@ Welcome to my personal portfolio website! This project showcases my skills, proj
 - **Responsive Design**: The website is fully responsive and works seamlessly on different devices and screen sizes.
 - **Dynamic Components**: Built using React, the site features dynamic and reusable components.
 - **Modern Styling**: Styled with modern CSS techniques including CSS modules and styled-components.
-- **Smooth Navigation**: Implemented with React Router for smooth navigation between pages.
+- **Smooth Navigation**: Implemented with React Router for smooth navigation on the page.
 
 ## Sections
 - **Home**: Introduction and a brief overview of who I am.
