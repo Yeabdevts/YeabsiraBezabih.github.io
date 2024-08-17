@@ -12,6 +12,13 @@
     <title>Yeabsira Bezabih</title>
     <script type="module" crossorigin src="/assets/main-C4lpBhLH.js"></script>
     <link rel="stylesheet" crossorigin href="/assets/main-Be_NqzJg.css">
+    <script>
+      var urlParams = new URLSearchParams(window.location.search);
+      var redirectPath = urlParams.get('redirect');
+      if (redirectPath) {
+        window.history.replaceState({}, document.title, redirectPath);
+      }
+    </script>
   </head>
   <body>
     <div id="root"></div>
